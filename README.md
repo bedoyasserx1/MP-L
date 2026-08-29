@@ -7,7 +7,7 @@ The website presents a simple visual journey through Pablo's music, career, albu
 ## 🌐 Live Demo
 
 👉 [Visit the Live Website]
-https://bedoyasserx1.github.io/MARWAN-PABLO/
+https://bedoyasserx1.github.io/MARWAN-PABLO-LAPTOP-VERSION-/
 
 ---
 
