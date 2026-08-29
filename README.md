@@ -1,6 +1,3 @@
-## 🌐 Live Demo
-[🚀 Visit the Live Website](https://bedoyasserx1.github.io/pablo-website/)
-
 # 🎤 Marwan Pablo — Father of the Trap
 
 A fan-made website dedicated to **Marwan Pablo**, one of the most influential artists in the Egyptian trap scene.
@@ -9,7 +6,8 @@ The website presents a simple visual journey through Pablo's music, career, albu
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live Website](https://bedoyasserx1.github.io/pablo-website/)
+👉 [Visit the Live Website]
+https://bedoyasserx1.github.io/MARWAN-PABLO/
 
 ---
 
